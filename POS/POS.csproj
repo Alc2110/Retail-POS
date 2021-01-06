@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBE60C9E-54EA-4108-8657-37BDB971EDE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POS</RootNamespace>
+    <AssemblyName>POS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Castle.Core.4.3.1\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=4.5.3.3, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.3.3\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="LabelProgressBar, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\LabelProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="labelProgressBarControl">
+      <HintPath>..\..\..\..\Desktop\labelProgressBarControl\labelProgressBarControl\bin\Release\labelProgressBarControl.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.6.8\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="Reports, Version=0.9.7114.24541, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Report.NET.0.9.8\lib\net461\Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="configuration.cs" />
+    <Compile Include="Controller\CheckoutHandler.cs" />
+    <Compile Include="Controller\CustomerController.cs" />
+    <Compile Include="Controller\ProductsController.cs" />
+    <Compile Include="Controller\PurchasesController.cs" />
+    <Compile Include="Controller\StaffController.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\DataAccessLayer\CustomerDataAccessObject.cs" />
+    <Compile Include="model\DataAccessLayer\ProductDataAccessObject.cs" />
+    <Compile Include="model\DataAccessLayer\PurchaseDataAccessObject.cs" />
+    <Compile Include="model\DataAccessLayer\StaffDataAccessObject.cs" />
+    <Compile Include="model\ObjectModel\Customer.cs" />
+    <Compile Include="model\ObjectModel\Product.cs" />
+    <Compile Include="model\ObjectModel\Staff.cs" />
+    <Compile Include="model\ObjectModel\Purchase.cs" />
+    <Compile Include="model\ServiceLayer\CustomerService.cs" />
+    <Compile Include="model\ServiceLayer\ProductService.cs" />
+    <Compile Include="model\ServiceLayer\StaffService.cs" />
+    <Compile Include="model\ServiceLayer\PurchasesService.cs" />
+    <Compile Include="model\ProgramState.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="security.cs" />
+    <Compile Include="View\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CsvWriter.cs" />
+    <Compile Include="View\DiscountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DiscountForm.Designer.cs">
+      <DependentUpon>DiscountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ExcelWriter.cs" />
+    <Compile Include="View\ICustomersView.cs" />
+    <Compile Include="View\IProductsView.cs" />
+    <Compile Include="View\IPurchasesView.cs" />
+    <Compile Include="View\IStaffView.cs" />
+    <Compile Include="View\NewCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\NewCustomerForm.Designer.cs">
+      <DependentUpon>NewCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\NewProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\NewProductForm.Designer.cs">
+      <DependentUpon>NewProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\NewStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\NewStaffForm.Designer.cs">
+      <DependentUpon>NewStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewCustomersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewCustomersForm.Designer.cs">
+      <DependentUpon>ViewCustomersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewProductsForm.Designer.cs">
+      <DependentUpon>ViewProductsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewStaffForm.Designer.cs">
+      <DependentUpon>ViewStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewTransactionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewTransactionsForm.Designer.cs">
+      <DependentUpon>ViewTransactionsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\DiscountForm.resx">
+      <DependentUpon>DiscountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\NewCustomerForm.resx">
+      <DependentUpon>NewCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\NewProductForm.resx">
+      <DependentUpon>NewProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\NewStaffForm.resx">
+      <DependentUpon>NewStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewCustomersForm.resx">
+      <DependentUpon>ViewCustomersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewProductsForm.resx">
+      <DependentUpon>ViewProductsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewStaffForm.resx">
+      <DependentUpon>ViewStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewTransactionsForm.resx">
+      <DependentUpon>ViewTransactionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\Images\Icons\add-icon-32-32.png" />
+    <Content Include="Resources\Images\Icons\delete-icon-32-32.png" />
+    <Content Include="Resources\Images\Icons\icons8-add-48.png" />
+    <Content Include="Resources\Images\Icons\icons8-clear-symbol-64.png" />
+    <Content Include="Resources\Images\Icons\icons8-customer-32.png" />
+    <Content Include="Resources\Images\Icons\icons8-customer-48.png" />
+    <Content Include="Resources\Images\Icons\icons8-discount-32.png" />
+    <Content Include="Resources\Images\Icons\icons8-logout-rounded-up-64.png" />
+    <Content Include="Resources\Images\Icons\icons8-product-40.png" />
+    <Content Include="Resources\Images\Icons\icons8-search-100.png" />
+    <Content Include="Resources\Images\Icons\icons8-search-50.png" />
+    <Content Include="Resources\Images\Icons\icons8-shopping-basket-32.png" />
+    <Content Include="Resources\Images\Icons\icons8-shopping-cart-64.png" />
+    <Content Include="Resources\Images\Icons\icons8-staff-144.png" />
+    <Content Include="Resources\Images\Icons\icons8-staff-48.png" />
+    <Content Include="Resources\Images\Icons\icons8-us-dollar-32.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>

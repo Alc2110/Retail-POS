@@ -1,0 +1,64 @@
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\UnitTests.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\POS.exe
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\POS.pdb
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\POS.exe.config
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\obj\Release\UnitTests.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\obj\Release\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\obj\Release\UnitTests.csproj.CopyComplete
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\obj\Release\UnitTests.dll
+C:\Users\Alex\Desktop\programming projects\POS\UnitTests\obj\Release\UnitTests.pdb
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\UnitTests.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\POS.exe
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\POS.pdb
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\POS.exe.config
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\obj\Release\UnitTests.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\obj\Release\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\obj\Release\UnitTests.csproj.CopyComplete
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\obj\Release\UnitTests.dll
+C:\Users\Alex\Desktop\git_repos\POS\UnitTests\obj\Release\UnitTests.pdb
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\UnitTests.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\EPPlus.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\NLog.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\PdfSharp.Charting.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\PdfSharp.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\POS.exe
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Reports.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\System.ValueTuple.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\POS.pdb
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\POS.exe.config
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\EPPlus.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\NLog.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\PdfSharp.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\PdfSharp.Charting.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\System.ValueTuple.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\de\PdfSharp.resources.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\obj\Release\UnitTests.csprojAssemblyReference.cache
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\obj\Release\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\obj\Release\UnitTests.csproj.CopyComplete
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\obj\Release\UnitTests.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\UnitTests\obj\Release\UnitTests.pdb

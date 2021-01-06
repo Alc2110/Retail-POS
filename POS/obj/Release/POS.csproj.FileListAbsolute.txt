@@ -1,0 +1,86 @@
+C:\Users\Alex\Desktop\programming projects\POS\POS\bin\Release\POS.exe.config
+C:\Users\Alex\Desktop\programming projects\POS\POS\bin\Release\POS.exe
+C:\Users\Alex\Desktop\programming projects\POS\POS\bin\Release\POS.pdb
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.MainWindow.resources
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.exe
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.pdb
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.LoginForm.resources
+C:\Users\Alex\Desktop\programming projects\POS\POS\obj\Release\POS.View.ViewCustomersForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\bin\Release\POS.exe.config
+C:\Users\Alex\Desktop\git_repos\POS\POS\bin\Release\POS.exe
+C:\Users\Alex\Desktop\git_repos\POS\POS\bin\Release\POS.pdb
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.LoginForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.MainWindow.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.ViewCustomersForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.ViewTransactionsForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.exe
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.pdb
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.NewCustomerForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.NewStaffForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.ViewStaffForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.ViewProductsForm.resources
+C:\Users\Alex\Desktop\git_repos\POS\POS\obj\Release\POS.View.NewProductForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.LoginForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.MainWindow.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewCustomerForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewProductForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewStaffForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewCustomersForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewProductsForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewStaffForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewTransactionsForm.resources
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.exe
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.pdb
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\bin\Release\POS.exe.config
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\bin\Release\POS.exe
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\bin\Release\POS.pdb
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\bin\Release\NLog.dll
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\bin\Release\NLog.xml
+C:\Users\Administrator\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\POS.exe.config
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\POS.exe
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\POS.pdb
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\Castle.Core.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\CircularProgressBar.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\EPPlus.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\labelProgressBarControl.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\NLog.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\Reports.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\System.ValueTuple.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\WinFormAnimation.dll
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\Castle.Core.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\CircularProgressBar.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\EPPlus.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\labelProgressBarControl.pdb
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\NLog.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\bin\Release\System.ValueTuple.xml
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.LoginForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.MainWindow.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.AboutBox.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.DiscountForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewCustomerForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewProductForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.NewStaffForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewCustomersForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewProductsForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewStaffForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.View.ViewTransactionsForm.resources
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.exe
+C:\Users\alexc\Documents\GitHub\Retail-POS\POS\obj\Release\POS.pdb
